@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666665 8.4666669"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="10.482005"
+     inkscape:cx="16.361374"
+     inkscape:cy="10.351073"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#9b0f0f;stroke-width:0.19383;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3660"
+       cx="4.2627425"
+       cy="4.2353354"
+       rx="4.0638947"
+       ry="4.0660596" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.09773px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';fill:#61210f;fill-opacity:1;stroke:#61210f;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="0.85334349"
+       y="5.9968128"
+       id="text1752"
+       transform="scale(0.95164315,1.0508141)"><tspan
+         sodipodi:role="line"
+         id="tspan1750"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:5.09773px;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#61210f;fill-opacity:1;stroke:#61210f;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="0.85334349"
+         y="5.9968128">PF</tspan></text>
+  </g>
+</svg>
