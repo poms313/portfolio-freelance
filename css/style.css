@@ -92,6 +92,10 @@ h2:after {
     background-color: var(--color-red);
 }
 
+.textCenter {
+    text-align: center;
+}
+
 .redHover {
     margin: 10px;
     padding: 10px;
@@ -319,7 +323,7 @@ img.lazyLoad {
 
 /* styles used only in the section presentation */
 
-#presentation p a {
+#presentation #description p a {
     color: #003064;
 }
 
@@ -1652,7 +1656,6 @@ img.lazyLoad {
 #footer h3 {
     background-color: var(--color-brown);
     color: var(--color-yellow);
-    text-align: center;
 }
 
 #footer h4 {

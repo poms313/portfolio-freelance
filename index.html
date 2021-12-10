@@ -1,14 +1,19 @@
-<!--
-ct
-anims on hover and scroll
-publi code pen faire + lien
-recommandation-->
-
-
 <!DOCTYPE html>
 <html lang="fr">
 
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1NK3BT3BN1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-1NK3BT3BN1');
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Création de site internet, Pommine Fillatre Développeuse</title>
@@ -76,7 +81,7 @@ recommandation-->
         </div>
 
         <div class="backgroundIntermediate padding">
-            <div class="row">
+            <div class="row" id="description">
                 <div class="col-lg-6">
                     <h3>Qui suis-je?</h3>
                     <p>Passionnée par les nouvelles technologies, je mets mes compétences au service de vos besoins en création de site internet/applications.</p>
@@ -97,24 +102,24 @@ recommandation-->
                 </div>
             </div>
 
-            <div class="row">
+            <div class="row textCenter">
                 <div class="col">
                     <h4>Sections du site:</h4>
-                    <a class="redHover" href="#contact">Contact</a>
-                    <a class="redHover" href="#portfolio">Portfolio</a>
+                    <p><a class="redHover" href="#contact">Contact</a></p><br>
+                    <p><a class="redHover" href="#portfolio">Portfolio</a></p>
                 </div>
                 <div class="col">
                     <h4>Mes liens:</h4>
-                    <a class="redHover" href="https://github.com/poms313" rel="noopener noreferrer nofollow" target="_blank">GitHub</a>
-                    <a class="redHover" href="https://codepen.io/diablo313" rel="noopener noreferrer nofollow" target="_blank">CodePen</a>
-                    <a class="redHover" href="https://www.linkedin.com/in/pommine-fillatre" rel="noopener noreferrer nofollow" target="_blank">Linkedin</a>
+                    <p><a class="redHover" href="https://github.com/poms313" rel="noopener noreferrer nofollow" target="_blank">GitHub</a></p><br>
+                    <p><a class="redHover" href="https://codepen.io/diablo313" rel="noopener noreferrer nofollow" target="_blank">CodePen</a></p><br>
+                    <p><a class="redHover" href="https://www.linkedin.com/in/pommine-fillatre" rel="noopener noreferrer nofollow" target="_blank">Linkedin</a></p>
                 </div>
             </div>
         </div>
 
         <div class="padding">
             <h3>Compétences</h3>
-            <div class="skillsList row">
+            <div class="skillsList row textCenter">
                 <div class="col-md-6 col-lg-3 padding">
                     <h4>Front-End</h4>
                     <div class="row">
@@ -1105,19 +1110,20 @@ recommandation-->
         </div>
     </section>
 
-    <div id="footer">
+    <div id="footer" class="textCenter">
         <h3>Découvrez mes services, vous en serez satisfait!</h3>
         <div class="row">
             <div class="col">
                 <h4>Liens Rapides:</h4>
-                <a class="redHover" href="#contact">Contact</a>
-                <a class="redHover" href="#portfolio">Portfolio</a>
+                <p><a class="redHover" href="#contact">Contact</a></p><br>
+                <p><a class="redHover" href="#portfolio">Portfolio</a></p>
+
             </div>
             <div class="col">
                 <h4>Me retrouver sur:</h4>
-                <a class="redHover" href="https://github.com/poms313" rel="noopener noreferrer nofollow" target="_blank">GitHub</a>
-                <a class="redHover" href="https://codepen.io/diablo313" rel="noopener noreferrer nofollow" target="_blank">CodePen</a>
-                <a class="redHover" href="https://www.linkedin.com/in/pommine-fillatre" rel="noopener noreferrer nofollow" target="_blank">Linkedin</a>
+                <p><a class="redHover" href="https://github.com/poms313" rel="noopener noreferrer nofollow" target="_blank">GitHub</a></p><br>
+                <p><a class="redHover" href="https://codepen.io/diablo313" rel="noopener noreferrer nofollow" target="_blank">CodePen</a></p><br>
+                <p><a class="redHover" href="https://www.linkedin.com/in/pommine-fillatre" rel="noopener noreferrer nofollow" target="_blank">Linkedin</a></p>
             </div>
         </div>
 
@@ -1130,6 +1136,7 @@ recommandation-->
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous" defer></script>
 
     <script src="js/script.js" defer></script>
+
 
 </body>
 
